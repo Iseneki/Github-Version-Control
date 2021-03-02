@@ -89,3 +89,24 @@ footer{
     text-transform: uppercase;
     text-align: center;
 }
+.copyrightbanner{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    height: 40px;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+}
+.crtext{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.crtextleft{
+    float: left;
+    width: 50%;
+}
+.crtextright{
+    float: right;
+    width: 50%;
+}
